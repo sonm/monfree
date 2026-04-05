@@ -26,3 +26,9 @@ Mono Mix, Reverse, 8 bit 10 kHz
 
 ### Export
 WAV
+
+![Mon Free Sequencer - Main](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-00.png)
+![Mon Free Sequencer - View 1](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-01.png)
+![Mon Free Sequencer - View 2](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-02.png)
+![Mon Free Sequencer - View 3](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-03.png)
+![Mon Free Sequencer - View 4](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-04.png)
