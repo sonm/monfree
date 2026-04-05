@@ -33,6 +33,6 @@ WAV
 | ![Main](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-00.png) |
 
 
-| Pad Panel | Step Panel | Pattern Panel | Song Panel |
+| Pad Panel | Step Panel | Patt. Panel | Song Panel |
 | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-01.png" width="200"> | <img src="https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-02.png" width="200"> | <img src="https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-03.png" width="200"> | <img src="https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-04.png" width="200"> |
+| ![Pad](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-01.png) | ![Step](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-02.png) | ![Pattern](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-03.png) | ![Song](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-04.png) |
