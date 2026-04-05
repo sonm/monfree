@@ -28,11 +28,11 @@ Mono Mix, Reverse, 8 bit 10 kHz
 WAV
 
 ### Screenshots
-| Main Panel |
+| Main |
 | :---: |
 | ![Main](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-00.png) |
 
 
-| Pad Panel | Step Panel | Patt. Panel | Song Panel |
+| Pad Mode | Step Mode | Patt. Mode | Song Mode |
 | :---: | :---: | :---: | :---: |
 | ![Pad](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-01.png) | ![Step](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-02.png) | ![Pattern](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-03.png) | ![Song](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-04.png) |
