@@ -32,9 +32,9 @@ sudo apt-get install monfree
 Uninstallation:
 
 ```bash
-# Remove the application: 
+# 1. Remove the application: 
 sudo apt remove monfree
-# (Optional) Remove the repository and GPG keys:
+# 2. (Optional) Remove the repository and GPG keys:
 sudo rm /etc/apt/sources.list.d/4or2une-monfree.list
 sudo rm /usr/share/keyrings/4or2une-monfree-archive-keyring.gpg
 sudo apt update
