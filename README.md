@@ -39,6 +39,7 @@
 | :---: | :---: | :---: | :---: |
 | ![Pad](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-01.png) | ![Step](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-02.png) | ![Pattern](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-03.png) | ![Song](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-04.png) |
 
+### Installation
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/monfree)
 
