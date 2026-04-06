@@ -87,3 +87,17 @@ sudo apt update
 - **Debian:** 12 (Bookworm) or newer.
 - **Architecture:** x86_64 (64-bit Intel/AMD).
 *Note: For older distributions or ARM-based systems, please use the **Snap** version, as it bundles its own compatible libraries.*
+
+## License
+
+**Copyright (c) 2026 4or2une. All rights reserved.**
+
+This software is provided as **Freeware** for personal and commercial musical use. 
+
+### Terms of Use
+* **Closed Source:** You may not decompile, reverse engineer, or modify the software binaries.
+* **Distribution:** You may not sell, rent, or lease this software. 
+* **Framework:** This application is built using the **JUCE Framework** (juce.com) and is subject to the JUCE End User License Agreement.
+
+### Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES OR DATA LOSS ARISING FROM THE USE OF THIS SOFTWARE.
