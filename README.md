@@ -37,12 +37,12 @@ Mono Mix, Reverse, 8 bit 10 kHz
 WAV
 
 ### Controls & Shortcuts
-Play/Stop: Spacebar
-For fast, hands-on pad control, use your computer keyboard:
-1 2 3 4
-q w e r
-a s d f
-z x c v
+- Play/Stop: Spacebar
+- For fast, hands-on pad control, use your computer keyboard:
+- 1 2 3 4
+- q w e r
+- a s d f
+- z x c v
 
 ### Screenshots
 | Main |
