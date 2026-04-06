@@ -11,6 +11,12 @@ The easiest way to install Mon Free on Ubuntu, Debian, Fedora, and other distrib
 sudo snap install monfree
 ```
 
+Uninstallation:
+
+```bash
+sudo snap remove monfree
+```
+
 ### Linux Native (.deb)
 The native way to install Mon Free on Ubuntu, Debian, Mint:
 
@@ -21,6 +27,17 @@ curl -1sLf \
   | sudo -E bash
 # 2. Install the application
 sudo apt-get install monfree
+```
+
+Uninstallation:
+
+```bash
+# Remove the application: 
+sudo apt remove monfree
+# (Optional) Remove the repository and GPG keys:
+sudo rm /etc/apt/sources.list.d/4or2une-monfree.list
+sudo rm /usr/share/keyrings/4or2une-monfree-archive-keyring.gpg
+sudo apt update
 ```
 
 ## Specifications
