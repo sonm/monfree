@@ -11,6 +11,18 @@ The easiest way to install Mon Free on Ubuntu, Debian, Fedora, and other distrib
 sudo snap install monfree
 ```
 
+### Linux Native (.deb)
+The native way to install Mon Free on Ubuntu, Debian, Mint:
+
+```bash
+# 1. Add the official repository
+curl -1sLf \
+  'https://dl.cloudsmith.io/public/4or2une/monfree/setup.deb.sh' \
+  | sudo -E bash
+# 2. Install the application
+sudo apt-get install monfree
+```
+
 ## Specifications
 
 ### Sequencer
