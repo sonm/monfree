@@ -90,7 +90,7 @@ sudo apt update
 
 ## License
 
-**Copyright (c) 2026 4or2une. All rights reserved.**
+**Copyright (c) 2026 mon. All rights reserved.**
 
 This software is provided as **Freeware** for personal and commercial musical use. 
 
