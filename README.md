@@ -8,7 +8,7 @@ Installation files for Mon Free audio sequencer (Android and Linux).
 The easiest way to install Mon Free on Ubuntu, Debian, Fedora, and other distributions is via the Snap Store:
 
 ```bash
-sudo snap install monfree
+sudo snap install monfree```
 
 ## Specifications
 
