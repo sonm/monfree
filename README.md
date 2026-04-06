@@ -28,21 +28,17 @@ sudo snap install monfree
 - Pad & Step Effects: Gain, Pitch, High Pass, Low Pass, EQ Pre, Compressor, Saturator, EQ Post
 
 ### Presets
-LoFi, EDM, Hardstyle, Phonk, Trap
+- LoFi, EDM, Hardstyle, Phonk, Trap
 
 ### Resampling
-Mono Mix, Reverse, 8 bit 10 kHz
+- Mono Mix, Reverse, 8 bit 10 kHz
 
 ### Export
-WAV
+- WAV
 
 ### Controls & Shortcuts
 - Play/Stop: Spacebar
-- For fast, hands-on pad control, use your computer keyboard:
-- 1 2 3 4
-- q w e r
-- a s d f
-- z x c v
+- For fast, hands-on pad control, use your computer keyboard: 1 2 3 4 | q w e r | a s d f | z x c v
 
 ### Screenshots
 | Main |
