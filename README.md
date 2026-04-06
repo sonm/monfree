@@ -44,6 +44,9 @@
 Installation files for Mon Free audio sequencer (Android and Linux).
 
 ### Linux (Snap)
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/monfree)
+
 The easiest way to install Mon Free on Ubuntu, Debian, Fedora, and other distributions is via the Snap Store:
 
 ```bash
@@ -83,6 +86,4 @@ sudo apt update
 - **Ubuntu:** 22.04 (Jammy) or newer.
 - **Debian:** 12 (Bookworm) or newer.
 - **Architecture:** x86_64 (64-bit Intel/AMD).
-
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/monfree)
 *Note: For older distributions or ARM-based systems, please use the **Snap** version, as it bundles its own compatible libraries.*
