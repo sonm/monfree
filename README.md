@@ -1,5 +1,7 @@
 # Mon Free – Audio Sequencer
 
+Mon Free is a sample based audio sequencer.
+
 ## Specifications
 
 ### Sequencer
