@@ -37,6 +37,8 @@ modules:
       - install -D MonFree.png /app/share/icons/hicolor/256x256/apps/io.github.sonm.monfree.png
       # 4. Export AppData (Required by Flathub for the store page)
       - install -D io.github.sonm.monfree.metainfo.xml /app/share/metainfo/io.github.sonm.monfree.metainfo.xml
+      # 5. LICENSE
+      - install -D LICENSE /app/share/licenses/io.github.sonm.monfree/LICENSE
 
     sources:
       # This is the main binary archive from your GitHub Release
