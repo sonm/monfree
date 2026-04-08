@@ -62,4 +62,4 @@ modules:
         sha256: fa9e270e249b94a1c94bb9e0ad330a35558e5ec74602bc989bd9f45d590ab5ed
       - type: file
         url: https://raw.githubusercontent.com/sonm/monfree/main/io.github.sonm.monfree.metainfo.xml
-        sha256: 0ba2a805a05bb0f762836648d7e65b0e8954ca4d8e5c0e73e7e52649e60ed737
+        sha256: 3f3428cabd5d2b3bf2ade3f06c7c2d6959a465fbe8461bc01b9606152fa2c796
