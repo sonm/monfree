@@ -21,6 +21,8 @@ finish-args:
   - --filesystem=xdg-music:create
   - --filesystem=xdg-documents:create
   
+  - --persist=.config/monfree
+  
 modules:
   - name: monfree
     buildsystem: simple
