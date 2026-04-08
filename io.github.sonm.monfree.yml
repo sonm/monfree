@@ -26,6 +26,7 @@ modules:
     buildsystem: simple
     build-commands:
       # 1. Install the binary
+      - chmod +x monfree
       - install -D monfree /app/bin/monfree
       # 2. Install the Desktop entry (must match App ID)
       - install -D io.github.sonm.monfree.desktop /app/share/applications/io.github.sonm.monfree.desktop
