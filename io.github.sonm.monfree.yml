@@ -45,6 +45,11 @@ modules:
         sha256: eda2fe9304a0e59b478fd8f7519f10c459eadc052115747f29ee21312146041c
         strip-components: 0
 
+      # Add the LICENSE source here
+      - type: file
+        url: https://raw.githubusercontent.com/sonm/monfree/main/LICENSE
+        sha256: 69e4c618f6d0d81b1d4c57c16b0f75ce331e963773c150c1feaaf654f81e5fb8
+        
       # The metadata files should be hosted in your repo's main branch 
       # so Flathub can download them directly.
       - type: file
