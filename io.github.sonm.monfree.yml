@@ -41,11 +41,11 @@ modules:
       # The metadata files should be hosted in your repo's main branch 
       # so Flathub can download them directly.
       - type: file
-        url: https://github.com/sonm/monfree/blob/main/io.github.sonm.monfree.desktop
+        url: https://raw.githubusercontent.com/sonm/monfree/main/io.github.sonm.monfree.desktop
         sha256: 2f765d6d60d6579229a49eb6d7b3c51e68ea81750935c4d198d6c90ec93b1e00
       - type: file
-        url: https://github.com/sonm/monfree/blob/main/MonFree.png
+        url: https://raw.githubusercontent.com/sonm/monfree/main/MonFree.png
         sha256: fa9e270e249b94a1c94bb9e0ad330a35558e5ec74602bc989bd9f45d590ab5ed
       - type: file
-        url: https://github.com/sonm/monfree/blob/main/io.github.sonm.monfree.metainfo.xml
+        url: https://raw.githubusercontent.com/sonm/monfree/main/io.github.sonm.monfree.metainfo.xml
         sha256: 48c04e905b95237b51c34099bf467a0013f6fd2d727bed478bd60ab639d767b3
