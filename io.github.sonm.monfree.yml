@@ -15,10 +15,12 @@ finish-args:
   # Audio and MIDI (Crucial for a Sequencer)
   - --socket=pulseaudio # Standard audio
   - --device=all        # Permission for ALSA/MIDI hardware access
+  - --filesystem=xdg-run/pipewire-0 # Essential for low-latency PipeWire support
 
-  # Filesystem
-  - --filesystem=home   # So users can save/load their projects
-
+  # Specific Folder Access
+  - --filesystem=xdg-music:create
+  - --filesystem=xdg-documents:create
+  
 modules:
   - name: monfree
     buildsystem: simple
