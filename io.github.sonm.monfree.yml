@@ -4,6 +4,9 @@ runtime-version: '48' # Matches the latest stable GNOME
 sdk: org.gnome.Sdk
 command: monfree
 
+tags:
+  - proprietary
+
 finish-args:
   # UI and Graphics
   - --share=ipc
