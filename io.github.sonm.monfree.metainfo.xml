@@ -58,6 +58,12 @@
       <image>https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-00.png</image>
     </screenshot>
     <screenshot>
+      <caption>MonFree Flatpak Demo</caption>
+      <video container="webm" width="1200" height="874">
+        https://sonm.github.io/monfree/videos/monfree_flatpak.webm
+      </video>
+    </screenshot>
+    <screenshot>
       <caption>Pad Mode</caption>
       <image>https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-01.png</image>
     </screenshot>
