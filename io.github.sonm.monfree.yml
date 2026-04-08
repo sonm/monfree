@@ -21,6 +21,7 @@ finish-args:
   - --filesystem=xdg-music:create
   - --filesystem=xdg-documents:create
   
+  #- --filesystem=xdg-config/monfree:create
   - --persist=.config/monfree
   
 modules:
@@ -41,7 +42,7 @@ modules:
       # This is the main binary archive from your GitHub Release
       - type: archive
         url: https://github.com/sonm/monfree/releases/download/v1.0.0/monfree-1.0.0-x86_64-flatpak-bin.tar.gz
-        sha256: da027d61dcb69d883c219cc1cfc87e386caa54034f63a0ad2a7549063d105e2b
+        sha256: f3a4f63f79361c87ba32af7e8521ef4b122b7a6988642d70834471d321a2eaf3
         strip-components: 0
 
       # The metadata files should be hosted in your repo's main branch 
