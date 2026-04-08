@@ -8,12 +8,18 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary</project_license>
 
-  <developer_name>4or2une</developer_name>
+  <developer_name>sonm</developer_name>
 
   <description>
-    <p>
-      MonFree is a sample based audio sequencer.
-    </p>
+    <p>MonFree is a sample-based audio sequencer.</p>
+    <p>This is the official Flatpak release, maintained directly by the upstream developer.</p>
+    <p>Core Features:</p>
+    <ul>
+      <li>32-pad grid with hands-on keyboard control</li>
+      <li>Step sequencer with 16 steps per pattern and 32 patterns per project</li>
+      <li>Real-time effects including EQ, Compressor, and Saturator</li>
+      <li>Built-in resampling and WAV export</li>
+    </ul>
     <p>Sequencer:</p>
     <ul>
       <li>32 Pads</li>
