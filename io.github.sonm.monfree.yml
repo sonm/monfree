@@ -26,6 +26,8 @@ finish-args:
   
 modules:
   - name: monfree
+    only-arches:
+    - x86_64
     buildsystem: simple
     build-commands:
       - chmod +x monfree
