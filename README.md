@@ -34,12 +34,12 @@ MonFree is a sample based audio sequencer.
 ### Screenshots
 | Main |
 | :---: |
-| ![Main](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-00.png) |
+| ![Main](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-monfree-00.png) |
 
 
 | Pad Mode | Step Mode | Patt. Mode | Song Mode |
 | :---: | :---: | :---: | :---: |
-| ![Pad](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-01.png) | ![Step](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-02.png) | ![Pattern](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-03.png) | ![Song](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-mon-free-04.png) |
+| ![Pad](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-monfree-01.png) | ![Step](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-monfree-02.png) | ![Pattern](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-monfree-03.png) | ![Song](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/pic-monfree-04.png) |
 
 ### Installation
 
