@@ -90,6 +90,14 @@ sudo apt update
 - **Architecture:** x86_64 (64-bit Intel/AMD).
 *Note: For older distributions or ARM-based systems, please use the **Snap** version, as it bundles its own compatible libraries.*
 
+### Donate
+If you find this sequencer useful, consider supporting development via Binance:
+
+* **Binance Pay ID:** `817510590`
+* **BNB / USDT (BEP20):** `0xdb3e0a2e6c2342b9371b762d659e7edbe3fc7cf3`
+
+![Binance QR Code](https://raw.githubusercontent.com/sonm/monfree/main/screenshots/binance_qr.png)
+
 ## License
 
 **Copyright (c) 2026 mon. All rights reserved.**
