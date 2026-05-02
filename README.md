@@ -1,6 +1,6 @@
-# MonFree – Audio Sequencer
+# Monfree – Audio Sequencer
 
-MonFree is a sample based audio sequencer.
+Monfree is a sample based audio sequencer.
 
 ## Specifications
 
@@ -43,13 +43,13 @@ MonFree is a sample based audio sequencer.
 
 ### Installation
 
-Installation files for MonFree audio sequencer (Android and Linux).
+Installation files for Monfree audio sequencer (Android and Linux).
 
 ### Linux (Snap)
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/monfree)
 
-The easiest way to install MonFree on Ubuntu, Debian, Fedora, and other distributions is via the Snap Store:
+The easiest way to install Monfree on Ubuntu, Debian, Fedora, and other distributions is via the Snap Store:
 
 ```bash
 sudo snap install monfree
@@ -62,7 +62,7 @@ sudo snap remove monfree
 ```
 
 ### Linux Native (.deb)
-The native way to install MonFree on Ubuntu, Debian, Mint:
+The native way to install Monfree on Ubuntu, Debian, Mint:
 
 ```bash
 # 1. Add the official repository
