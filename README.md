@@ -5,31 +5,47 @@ Monfree is a sample based audio sequencer.
 ## Specifications
 
 ### Sequencer
-- 32 Pads
-- 16 Steps per Pattern
-- 32 Patterns
+- 16-pad grid interface
+- 1 to 16 steps per pattern
+- 80 patterns total
+- One-shot and choke pad play modes
 
 ### Samples
-- 32 Samples
-- Max 10 seconds per Sample
+- 80 sample slots
+- Max 10 seconds per sample
 - WAV format
 
 ### Effects / Options
-- Pattern & Song Effects: Gain, BPM, High Pass, Low Pass, EQ Pre, Compressor, Saturator, EQ Post
-- Pad & Step Effects: Gain, Pitch, High Pass, Low Pass, EQ Pre, Compressor, Saturator, EQ Post
+- Pattern and Song Effects: Gain, BPM, High Pass, Low Pass, EQ Pre, Compressor, Saturator, EQ Post
+- Pad and Step Effects: Gain, Pitch, High Pass, Low Pass, EQ Pre, Compressor, Saturator, EQ Post
 
 ### Presets
 - LoFi, EDM, Hardstyle, Phonk, Trap
 
-### Resampling
-- Mono Mix, Reverse, 8 bit 10 kHz
+### Converting samples
+- Mono Mix, Swap L/R, Reverse, 8 bit 32 kHz, 8 bit 22.05 kHz, 8 bit 16 kHz, 8 bit 12 kHz
 
 ### Export
 - WAV
 
 ### Controls & Shortcuts
-- Play/Stop: Spacebar
-- For fast, hands-on pad control, use your computer keyboard: 1 2 3 4 | q w e r | a s d f | z x c v
+- Pad control grid layout:
+- Row 1: [ 4 ] [ 5 ] [ 6 ] [ 7 ]
+- Row 2: [ r ] [ t ] [ y ] [ u ]
+- Row 3: [ f ] [ g ] [ h ] [ j ]
+- Row 4: [ v ] [ b ] [ n ] [ m ]
+- Board Modes - Pad [ 9 ] Pattern [ 0 ] Step [ - ] Song [ = ]
+- Expand: [ i ]  More: [ o ]  Erase: [ p ]  Proj.: [ [ ]
+- Convert [ k ]  Save C. [ l ]  Preset [ ; ]  Page [ ' ]
+- Prev [ , ]  Next [ . ]  Info [ / ]
+- Set sample: [ a ]
+- On / Off play samples: [ s ]
+- Focus on Bank: [ k ]
+- Play modes (Pattern / Song): [ ` ]
+- Stop: [ z ]
+- Record: [ x ]
+- Focus on Pads: [ c ]
+- Play / Pause: [ Spacebar ]
 
 ### Screenshots
 | Main |
