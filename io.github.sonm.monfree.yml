@@ -25,7 +25,7 @@ modules:
       - type: archive
         only-arches: [x86_64]
         url: https://github.com/sonm/monfree/releases/download/v1.0.0/monfree-x86_64.tar.gz
-        sha256: db9b0d22af746e25ecd3aa4cf852b8bec0c2ff9f9f743e962b15449367534a7e
+        sha256: b11fc4377dddd38543eabcd8b7e140039aac11246c5554a3e7b5131a8c2478a0
         strip-components: 0
       - type: archive
         url: https://github.com/sonm/monfree/releases/download/v1.0.0/monfree-assets.tar.gz
