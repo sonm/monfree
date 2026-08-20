@@ -3,17 +3,14 @@ runtime: org.freedesktop.Platform
 runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 command: monfree
-
 tags:
   - proprietary
-
 finish-args:
   - --share=ipc
   - --socket=fallback-x11
   - --socket=wayland
   - --socket=pulseaudio
   - --device=dri
-
 modules:
   - name: monfree
     buildsystem: simple
@@ -24,7 +21,6 @@ modules:
       - install -D Monfree.png /app/share/icons/hicolor/256x256/apps/io.github.sonm.monfree.png
       - install -D io.github.sonm.monfree.metainfo.xml /app/share/metainfo/io.github.sonm.monfree.metainfo.xml
       - install -D LICENSE.txt /app/share/licenses/io.github.sonm.monfree/LICENSE
-
     sources:
       - type: archive
         only-arches: [x86_64]
@@ -33,5 +29,5 @@ modules:
         strip-components: 0
       - type: archive
         url: https://github.com/sonm/monfree/releases/download/v1.0.0/monfree-assets.tar.gz
-        sha256: 4d8983e74324c29564d4f29d3b56bf2e527113b0811d57d922fae1323ac87da0
+        sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
         strip-components: 0
